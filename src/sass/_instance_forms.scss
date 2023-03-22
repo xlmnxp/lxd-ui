@@ -1,7 +1,9 @@
 .create-instance,
 .edit-instance,
 .create-profile,
-.edit-profile {
+.edit-profile,
+.create-project,
+.edit-project {
   padding-bottom: 0;
 
   .p-notification--caution {
@@ -39,6 +41,10 @@
     .image-change-link {
       align-self: end;
       margin-bottom: 6px;
+    }
+
+    .image-select-button {
+      align-self: end;
     }
 
     .profile-action-btn {

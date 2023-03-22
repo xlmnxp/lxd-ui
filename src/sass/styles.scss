@@ -46,6 +46,7 @@ $border-thin: 1px solid $color-mid-light !default;
 @import "instance_detail_page";
 @import "instance_detail_panel";
 @import "instance_detail_snapshots";
+@import "instance_detail_terminal";
 @import "instance_forms";
 @import "instance_list";
 @import "meter";
@@ -53,6 +54,7 @@ $border-thin: 1px solid $color-mid-light !default;
 @import "pagination";
 @import "pattern_navigation";
 @import "pattern_terminal";
+@import "project_select";
 
 .l-main .row {
   max-width: none;
